@@ -9,7 +9,6 @@
 
 Create a new environment
 
-...
-
+```
 conda create -p venu python==3.7 -y
-...
+```
